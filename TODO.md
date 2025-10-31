@@ -1,0 +1,10 @@
+- [x] Modify serve function to extract path and add logging for method and path
+- [x] Add /welcome endpoint handling
+- [x] Test the changes (Supabase CLI not installed, local testing not possible; code review confirms correct implementation)
+- [x] Integrate ML model from notebook into Supabase function using rule-based prediction (symptom matching from training data)
+- [x] Add /welcome endpoint with request logging (method and path)
+- [x] Test locally
+- [x] Create Python scripts for training and prediction
+- [x] Create Flask API for local testing
+- [x] Update React app to use local Flask API instead of Supabase function
+- [x] Test Flask API endpoints (/welcome and /predict)
